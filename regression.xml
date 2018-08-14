@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" preserve-order="true">
+	<suite-files>
+		<suite-file path="test_suites/users.xml"></suite-file>
+		<suite-file path="test_suites/companies.xml"></suite-file>
+		<suite-file path="test_suites/invoices.xml"></suite-file>
+	</suite-files>
+</suite> 
